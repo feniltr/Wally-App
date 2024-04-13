@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450592723760",
+    "project_id": "flt-login-mitch-koko",
+    "storage_bucket": "flt-login-mitch-koko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450592723760:android:8f9c609f092c893f796ef5",
+        "android_client_info": {
+          "package_name": "com.example.flt_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450592723760-r1gj1eb89ectpf3tjtuj3k9if544gdfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmMFbkMTmJ8SdOq_KQ-6Fw3HoCG-SfvZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450592723760-r1gj1eb89ectpf3tjtuj3k9if544gdfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
